@@ -1,0 +1,11 @@
+2023-09-23 11:19:04,473 INFO - Starting the scheduler
+2023-09-23 11:19:04,474 INFO - Processing each file at most -1 times
+2023-09-23 11:19:04,477 INFO - Launched DagFileProcessorManager with pid: 55829
+2023-09-23 11:19:04,478 INFO - Adopting or resetting orphaned tasks for active dag runs
+2023-09-23 11:19:04,481 INFO - Configured default timezone Timezone('UTC')
+2023-09-23 11:24:04,543 INFO - Adopting or resetting orphaned tasks for active dag runs
+2023-09-23 11:29:04,570 INFO - Adopting or resetting orphaned tasks for active dag runs
+2023-09-23 11:34:04,597 INFO - Adopting or resetting orphaned tasks for active dag runs
+2023-09-23 11:39:04,629 INFO - Adopting or resetting orphaned tasks for active dag runs
+2023-09-23 11:44:04,656 INFO - Adopting or resetting orphaned tasks for active dag runs
+2023-09-23 11:49:04,680 INFO - Adopting or resetting orphaned tasks for active dag runs
