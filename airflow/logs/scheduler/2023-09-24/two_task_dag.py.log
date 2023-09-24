@@ -894,3 +894,290 @@
 [2023-09-24T08:31:04.659+0000] {logging_mixin.py:151} INFO - [2023-09-24T08:31:04.659+0000] {dag.py:2915} INFO - Sync 1 DAGs
 [2023-09-24T08:31:04.671+0000] {logging_mixin.py:151} INFO - [2023-09-24T08:31:04.671+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
 [2023-09-24T08:31:04.712+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.075 seconds
+[2023-09-24T11:13:07.549+0000] {processor.py:157} INFO - Started process (PID=3108) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:13:07.553+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:13:07.553+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:13:07.553+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:13:07.559+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:13:07.573+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:13:07.573+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:13:07.581+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:13:07.581+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:13:07.632+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.085 seconds
+[2023-09-24T11:13:37.984+0000] {processor.py:157} INFO - Started process (PID=3364) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:13:37.985+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:13:37.985+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:13:37.985+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:13:37.991+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:13:38.006+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:13:38.006+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:13:38.015+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:13:38.015+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:13:38.062+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.079 seconds
+[2023-09-24T11:14:08.549+0000] {processor.py:157} INFO - Started process (PID=3610) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:14:08.549+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:14:08.550+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:14:08.550+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:14:08.555+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:14:08.569+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:14:08.569+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:14:08.577+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:14:08.577+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:14:08.624+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.077 seconds
+[2023-09-24T11:14:39.033+0000] {processor.py:157} INFO - Started process (PID=3817) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:14:39.033+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:14:39.034+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:14:39.034+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:14:39.040+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:14:39.054+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:14:39.054+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:14:39.062+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:14:39.062+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:14:39.110+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.079 seconds
+[2023-09-24T11:15:09.651+0000] {processor.py:157} INFO - Started process (PID=4024) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:15:09.651+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:15:09.652+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:15:09.652+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:15:09.658+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:15:09.671+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:15:09.671+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:15:09.679+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:15:09.679+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:15:09.726+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.077 seconds
+[2023-09-24T11:15:40.146+0000] {processor.py:157} INFO - Started process (PID=4227) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:15:40.147+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:15:40.148+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:15:40.147+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:15:40.153+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:15:40.167+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:15:40.167+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:15:40.174+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:15:40.174+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:15:40.225+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.080 seconds
+[2023-09-24T11:16:10.791+0000] {processor.py:157} INFO - Started process (PID=4490) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:16:10.797+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:16:10.797+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:16:10.797+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:16:10.809+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:16:10.846+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:16:10.845+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:16:10.871+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:16:10.869+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:16:10.957+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.172 seconds
+[2023-09-24T11:16:41.194+0000] {processor.py:157} INFO - Started process (PID=4690) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:16:41.194+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:16:41.195+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:16:41.195+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:16:41.201+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:16:41.215+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:16:41.214+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:16:41.222+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:16:41.222+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:16:41.275+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.083 seconds
+[2023-09-24T11:17:11.775+0000] {processor.py:157} INFO - Started process (PID=4890) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:17:11.789+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:17:11.790+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:17:11.790+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:17:11.799+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:17:11.823+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:17:11.823+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:17:11.837+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:17:11.837+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:17:11.893+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.120 seconds
+[2023-09-24T11:17:42.448+0000] {processor.py:157} INFO - Started process (PID=5086) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:17:42.448+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:17:42.449+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:17:42.449+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:17:42.455+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:17:42.469+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:17:42.468+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:17:42.476+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:17:42.476+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:17:42.533+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.087 seconds
+[2023-09-24T11:18:13.071+0000] {processor.py:157} INFO - Started process (PID=5316) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:18:13.071+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:18:13.072+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:18:13.072+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:18:13.078+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:18:13.092+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:18:13.092+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:18:13.100+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:18:13.100+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:18:13.152+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.083 seconds
+[2023-09-24T11:18:43.586+0000] {processor.py:157} INFO - Started process (PID=5518) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:18:43.587+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:18:43.588+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:18:43.587+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:18:43.593+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:18:43.607+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:18:43.607+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:18:43.614+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:18:43.614+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:18:43.665+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.080 seconds
+[2023-09-24T11:19:14.152+0000] {processor.py:157} INFO - Started process (PID=5725) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:19:14.152+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:19:14.153+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:19:14.153+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:19:14.159+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:19:14.173+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:19:14.173+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:19:14.180+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:19:14.180+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:19:14.236+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.086 seconds
+[2023-09-24T11:19:44.721+0000] {processor.py:157} INFO - Started process (PID=5918) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:19:44.722+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:19:44.722+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:19:44.722+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:19:44.728+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:19:44.741+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:19:44.741+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:19:44.749+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:19:44.748+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:19:44.799+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.080 seconds
+[2023-09-24T11:20:15.355+0000] {processor.py:157} INFO - Started process (PID=6119) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:20:15.355+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:20:15.356+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:20:15.356+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:20:15.361+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:20:15.375+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:20:15.375+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:20:15.382+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:20:15.382+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:20:15.432+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.079 seconds
+[2023-09-24T11:20:46.141+0000] {processor.py:157} INFO - Started process (PID=6319) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:20:46.142+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:20:46.142+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:20:46.142+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:20:46.148+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:20:46.162+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:20:46.162+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:20:46.169+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:20:46.169+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:20:46.218+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.079 seconds
+[2023-09-24T11:21:16.887+0000] {processor.py:157} INFO - Started process (PID=6521) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:21:16.888+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:21:16.888+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:21:16.888+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:21:16.894+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:21:16.910+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:21:16.909+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:21:16.918+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:21:16.918+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:21:16.971+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.085 seconds
+[2023-09-24T11:21:47.463+0000] {processor.py:157} INFO - Started process (PID=6716) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:21:47.463+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:21:47.464+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:21:47.464+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:21:47.470+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:21:47.484+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:21:47.484+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:21:47.492+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:21:47.492+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:21:47.551+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.090 seconds
+[2023-09-24T11:22:18.029+0000] {processor.py:157} INFO - Started process (PID=6912) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:22:18.030+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:22:18.031+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:22:18.031+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:22:18.039+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:22:18.122+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:22:18.122+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:22:18.153+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:22:18.153+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:22:18.234+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.207 seconds
+[2023-09-24T11:22:48.414+0000] {processor.py:157} INFO - Started process (PID=7113) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:22:48.414+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:22:48.415+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:22:48.415+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:22:48.421+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:22:48.435+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:22:48.434+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:22:48.443+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:22:48.442+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:22:48.488+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.075 seconds
+[2023-09-24T11:23:18.608+0000] {processor.py:157} INFO - Started process (PID=7332) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:23:18.609+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:23:18.610+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:23:18.609+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:23:18.615+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:23:18.629+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:23:18.628+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:23:18.640+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:23:18.640+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:23:18.706+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.099 seconds
+[2023-09-24T11:23:49.931+0000] {processor.py:157} INFO - Started process (PID=7538) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:23:49.931+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:23:49.932+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:23:49.932+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:23:49.937+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:23:49.952+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:23:49.952+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:23:49.960+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:23:49.960+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:23:50.013+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.084 seconds
+[2023-09-24T11:24:20.317+0000] {processor.py:157} INFO - Started process (PID=7742) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:24:20.318+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:24:20.318+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:24:20.318+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:24:20.324+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:24:20.339+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:24:20.339+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:24:20.351+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:24:20.351+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:24:20.410+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.094 seconds
+[2023-09-24T11:24:50.835+0000] {processor.py:157} INFO - Started process (PID=7939) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:24:50.837+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:24:50.841+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:24:50.841+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:24:50.851+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:24:50.874+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:24:50.874+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:24:50.885+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:24:50.885+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:24:50.940+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.108 seconds
+[2023-09-24T11:25:21.395+0000] {processor.py:157} INFO - Started process (PID=8143) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:25:21.395+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:25:21.396+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:25:21.396+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:25:21.402+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:25:21.417+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:25:21.417+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:25:21.426+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:25:21.425+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:25:21.474+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.081 seconds
+[2023-09-24T11:25:51.894+0000] {processor.py:157} INFO - Started process (PID=8340) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:25:51.894+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:25:51.895+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:25:51.895+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:25:51.901+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:25:51.915+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:25:51.914+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:25:51.923+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:25:51.922+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:25:51.977+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.085 seconds
+[2023-09-24T11:26:22.361+0000] {processor.py:157} INFO - Started process (PID=8536) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:26:22.361+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:26:22.362+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:26:22.362+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:26:22.368+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:26:22.383+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:26:22.383+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:26:22.390+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:26:22.390+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:26:22.439+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.080 seconds
+[2023-09-24T11:26:52.820+0000] {processor.py:157} INFO - Started process (PID=8786) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:26:52.820+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:26:52.821+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:26:52.821+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:26:52.829+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:26:52.851+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:26:52.851+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:26:52.863+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:26:52.862+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:26:52.914+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.096 seconds
+[2023-09-24T11:27:23.314+0000] {processor.py:157} INFO - Started process (PID=8969) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:27:23.315+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:27:23.316+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:27:23.315+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:27:23.324+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:27:23.346+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:27:23.346+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:27:23.358+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:27:23.358+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:27:23.408+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.097 seconds
+[2023-09-24T11:27:53.472+0000] {processor.py:157} INFO - Started process (PID=9142) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:27:53.473+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:27:53.473+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:27:53.473+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:27:53.480+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:27:53.494+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:27:53.494+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:27:53.502+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:27:53.502+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:27:53.555+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.084 seconds
+[2023-09-24T11:28:23.799+0000] {processor.py:157} INFO - Started process (PID=9902) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:28:23.800+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:28:23.800+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:28:23.800+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:28:23.806+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:28:23.820+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:28:23.820+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:28:23.827+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:28:23.827+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:28:23.880+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.082 seconds
+[2023-09-24T11:28:53.997+0000] {processor.py:157} INFO - Started process (PID=10453) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:28:53.997+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:28:53.998+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:28:53.998+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:28:54.004+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:28:54.017+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:28:54.017+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:28:54.025+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:28:54.025+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:28:54.078+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.083 seconds
+[2023-09-24T11:29:24.389+0000] {processor.py:157} INFO - Started process (PID=10696) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:29:24.390+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:29:24.391+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:29:24.390+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:29:24.396+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:29:24.410+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:29:24.410+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:29:24.419+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:29:24.418+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:29:24.473+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.085 seconds
+[2023-09-24T11:29:54.848+0000] {processor.py:157} INFO - Started process (PID=10893) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:29:54.848+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:29:54.849+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:29:54.849+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:29:54.855+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:29:54.868+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:29:54.868+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:29:54.877+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:29:54.877+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:29:54.927+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.081 seconds
+[2023-09-24T11:30:25.307+0000] {processor.py:157} INFO - Started process (PID=11172) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:30:25.308+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:30:25.308+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:30:25.308+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:30:25.314+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:30:25.328+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:30:25.328+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:30:25.336+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:30:25.336+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:30:25.388+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.082 seconds
+[2023-09-24T11:30:56.254+0000] {processor.py:157} INFO - Started process (PID=11377) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:30:56.254+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:30:56.255+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:30:56.255+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:30:56.261+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:30:56.275+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:30:56.275+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:30:56.283+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:30:56.283+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:30:56.336+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.084 seconds
+[2023-09-24T11:31:26.413+0000] {processor.py:157} INFO - Started process (PID=11596) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:31:26.413+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:31:26.414+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:31:26.413+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:31:26.420+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:31:26.433+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:31:26.433+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:31:26.441+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:31:26.441+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:31:26.494+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.083 seconds
+[2023-09-24T11:31:56.731+0000] {processor.py:157} INFO - Started process (PID=11967) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:31:56.731+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:31:56.732+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:31:56.732+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:31:56.738+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:31:56.752+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:31:56.751+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:31:56.761+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:31:56.761+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:31:56.817+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.088 seconds
+[2023-09-24T11:32:27.011+0000] {processor.py:157} INFO - Started process (PID=12363) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:32:27.011+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:32:27.012+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:32:27.012+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:32:27.018+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:32:27.031+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:32:27.031+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:32:27.040+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:32:27.040+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:32:27.090+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.080 seconds
+[2023-09-24T11:32:57.168+0000] {processor.py:157} INFO - Started process (PID=12626) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:32:57.168+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:32:57.169+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:32:57.169+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:32:57.175+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:32:57.189+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:32:57.188+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:32:57.196+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:32:57.196+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:32:57.250+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.084 seconds
+[2023-09-24T11:33:27.755+0000] {processor.py:157} INFO - Started process (PID=12883) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:33:27.756+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py for tasks to queue
+[2023-09-24T11:33:27.756+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:33:27.756+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:33:27.762+0000] {processor.py:839} INFO - DAG(s) dict_keys(['two_task_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py
+[2023-09-24T11:33:27.776+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:33:27.776+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-24T11:33:27.784+0000] {logging_mixin.py:151} INFO - [2023-09-24T11:33:27.784+0000] {dag.py:3696} INFO - Setting next_dagrun for two_task_dag to None, run_after=None
+[2023-09-24T11:33:27.834+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/two_task_dag.py took 0.080 seconds
