@@ -251,3 +251,283 @@
 [2023-09-27T09:10:14.308+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:10:14.307+0000] {dag.py:2915} INFO - Sync 1 DAGs
 [2023-09-27T09:10:14.314+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:10:14.314+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
 [2023-09-27T09:10:14.350+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.384 seconds
+[2023-09-27T09:10:44.741+0000] {processor.py:157} INFO - Started process (PID=31695) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:10:44.742+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:10:44.743+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:10:44.743+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:10:45.059+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:10:45.072+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:10:45.071+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:10:45.079+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:10:45.078+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:10:45.116+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.376 seconds
+[2023-09-27T09:11:15.455+0000] {processor.py:157} INFO - Started process (PID=31891) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:11:15.456+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:11:15.456+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:11:15.456+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:11:15.801+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:11:15.815+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:11:15.815+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:11:15.823+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:11:15.822+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:11:15.865+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.411 seconds
+[2023-09-27T09:11:46.044+0000] {processor.py:157} INFO - Started process (PID=32084) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:11:46.045+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:11:46.045+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:11:46.045+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:11:46.363+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:11:46.376+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:11:46.376+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:11:46.385+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:11:46.384+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:11:46.426+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.384 seconds
+[2023-09-27T09:12:16.633+0000] {processor.py:157} INFO - Started process (PID=32278) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:12:16.634+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:12:16.635+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:12:16.634+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:12:16.872+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:12:16.886+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:12:16.886+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:12:16.984+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:12:16.984+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:12:17.021+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.390 seconds
+[2023-09-27T09:12:47.320+0000] {processor.py:157} INFO - Started process (PID=32496) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:12:47.321+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:12:47.321+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:12:47.321+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:12:47.553+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:12:47.661+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:12:47.661+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:12:47.669+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:12:47.669+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:12:47.711+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.393 seconds
+[2023-09-27T09:13:18.017+0000] {processor.py:157} INFO - Started process (PID=32684) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:13:18.017+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:13:18.018+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:13:18.018+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:13:18.269+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:13:18.368+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:13:18.368+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:13:18.375+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:13:18.375+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:13:18.411+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.396 seconds
+[2023-09-27T09:13:48.714+0000] {processor.py:157} INFO - Started process (PID=32896) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:13:48.714+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:13:48.715+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:13:48.715+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:13:48.963+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:13:49.058+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:13:49.058+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:13:49.065+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:13:49.065+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:13:49.100+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.388 seconds
+[2023-09-27T09:14:19.322+0000] {processor.py:157} INFO - Started process (PID=33109) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:19.332+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:14:19.333+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:19.333+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:19.941+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:19.978+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:19.977+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:14:20.008+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:20.008+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:14:20.063+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.733 seconds
+[2023-09-27T09:14:24.976+0000] {processor.py:157} INFO - Started process (PID=33144) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:24.977+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:14:24.978+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:24.977+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:25.509+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:25.527+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:25.527+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:14:25.538+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:25.538+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:14:25.586+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.612 seconds
+[2023-09-27T09:14:56.044+0000] {processor.py:157} INFO - Started process (PID=33390) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:56.045+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:14:56.046+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:56.046+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:56.388+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:14:56.399+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:56.399+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:14:56.406+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:14:56.406+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:14:56.442+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.400 seconds
+[2023-09-27T09:15:26.921+0000] {processor.py:157} INFO - Started process (PID=33610) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:15:26.922+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:15:26.922+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:15:26.922+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:15:27.238+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:15:27.250+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:15:27.250+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:15:27.257+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:15:27.257+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:15:27.301+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.382 seconds
+[2023-09-27T09:15:57.712+0000] {processor.py:157} INFO - Started process (PID=33932) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:15:57.714+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:15:57.714+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:15:57.714+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:15:58.120+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:15:58.132+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:15:58.132+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:15:58.139+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:15:58.139+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:15:58.178+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.468 seconds
+[2023-09-27T09:16:28.730+0000] {processor.py:157} INFO - Started process (PID=34392) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:16:28.731+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:16:28.732+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:16:28.731+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:16:29.087+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:16:29.099+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:16:29.099+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:16:29.107+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:16:29.107+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:16:29.144+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.415 seconds
+[2023-09-27T09:16:59.429+0000] {processor.py:157} INFO - Started process (PID=35054) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:16:59.430+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:16:59.430+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:16:59.430+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:16:59.666+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:16:59.680+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:16:59.680+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:16:59.772+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:16:59.772+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:16:59.811+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.384 seconds
+[2023-09-27T09:17:30.015+0000] {processor.py:157} INFO - Started process (PID=35399) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:17:30.016+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:17:30.017+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:17:30.016+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:17:30.250+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:17:30.360+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:17:30.359+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:17:30.367+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:17:30.367+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:17:30.404+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.391 seconds
+[2023-09-27T09:18:00.499+0000] {processor.py:157} INFO - Started process (PID=35699) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:18:00.500+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:18:00.500+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:18:00.500+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:18:00.751+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:18:00.862+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:18:00.861+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:18:00.869+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:18:00.869+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:18:00.907+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.410 seconds
+[2023-09-27T09:18:31.084+0000] {processor.py:157} INFO - Started process (PID=36051) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:18:31.085+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:18:31.085+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:18:31.085+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:18:31.328+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:18:31.425+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:18:31.425+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:18:31.432+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:18:31.432+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:18:31.471+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.389 seconds
+[2023-09-27T09:19:01.568+0000] {processor.py:157} INFO - Started process (PID=36348) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:19:01.568+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:19:01.569+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:19:01.569+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:19:01.894+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:19:01.907+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:19:01.907+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:19:01.914+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:19:01.914+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:19:01.953+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.387 seconds
+[2023-09-27T09:19:32.052+0000] {processor.py:157} INFO - Started process (PID=36635) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:19:32.052+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:19:32.053+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:19:32.053+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:19:32.383+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:19:32.396+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:19:32.396+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:19:32.403+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:19:32.403+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:19:32.441+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.391 seconds
+[2023-09-27T09:20:02.545+0000] {processor.py:157} INFO - Started process (PID=36822) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:20:02.546+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:20:02.546+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:20:02.546+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:20:02.868+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:20:02.880+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:20:02.879+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:20:02.887+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:20:02.887+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:20:02.925+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.381 seconds
+[2023-09-27T09:20:33.042+0000] {processor.py:157} INFO - Started process (PID=37109) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:20:33.043+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:20:33.044+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:20:33.043+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:20:33.367+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:20:33.379+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:20:33.379+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:20:33.388+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:20:33.388+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:20:33.425+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.385 seconds
+[2023-09-27T09:21:03.522+0000] {processor.py:157} INFO - Started process (PID=37359) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:21:03.522+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:21:03.523+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:21:03.523+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:21:03.851+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:21:03.863+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:21:03.863+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:21:03.872+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:21:03.872+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:21:03.912+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.392 seconds
+[2023-09-27T09:21:34.111+0000] {processor.py:157} INFO - Started process (PID=37569) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:21:34.112+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:21:34.112+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:21:34.112+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:21:34.442+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:21:34.455+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:21:34.455+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:21:34.464+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:21:34.464+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:21:34.509+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.399 seconds
+[2023-09-27T09:22:04.604+0000] {processor.py:157} INFO - Started process (PID=37964) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:22:04.604+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:22:04.605+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:22:04.605+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:22:04.851+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:22:04.966+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:22:04.965+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:22:04.973+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:22:04.973+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:22:05.010+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.408 seconds
+[2023-09-27T09:22:35.125+0000] {processor.py:157} INFO - Started process (PID=38219) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:22:35.126+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:22:35.127+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:22:35.126+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:22:35.365+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:22:35.461+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:22:35.461+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:22:35.469+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:22:35.469+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:22:35.506+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.382 seconds
+[2023-09-27T09:23:05.714+0000] {processor.py:157} INFO - Started process (PID=38409) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:23:05.715+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:23:05.715+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:23:05.715+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:23:06.053+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:23:06.065+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:23:06.065+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:23:06.072+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:23:06.071+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:23:06.107+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.395 seconds
+[2023-09-27T09:23:36.305+0000] {processor.py:157} INFO - Started process (PID=38648) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:23:36.305+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:23:36.306+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:23:36.306+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:23:36.635+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:23:36.646+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:23:36.646+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:23:36.653+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:23:36.653+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:23:36.691+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.388 seconds
+[2023-09-27T09:24:06.892+0000] {processor.py:157} INFO - Started process (PID=38980) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:24:06.892+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:24:06.893+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:24:06.893+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:24:07.233+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:24:07.250+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:24:07.250+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:24:07.257+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:24:07.257+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:24:07.297+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.407 seconds
+[2023-09-27T09:24:37.580+0000] {processor.py:157} INFO - Started process (PID=39244) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:24:37.581+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:24:37.582+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:24:37.581+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:24:37.929+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:24:37.941+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:24:37.941+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:24:37.949+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:24:37.949+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:24:37.989+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.411 seconds
+[2023-09-27T09:25:08.163+0000] {processor.py:157} INFO - Started process (PID=39558) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:25:08.164+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:25:08.164+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:25:08.164+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:25:08.485+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:25:08.496+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:25:08.496+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:25:08.504+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:25:08.504+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:25:08.541+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.379 seconds
+[2023-09-27T09:25:38.755+0000] {processor.py:157} INFO - Started process (PID=39809) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:25:38.755+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:25:38.756+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:25:38.756+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:25:39.090+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:25:39.102+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:25:39.102+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:25:39.110+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:25:39.110+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:25:39.154+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.401 seconds
+[2023-09-27T09:26:09.445+0000] {processor.py:157} INFO - Started process (PID=40003) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:26:09.446+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:26:09.446+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:26:09.446+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:26:09.769+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:26:09.781+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:26:09.781+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:26:09.789+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:26:09.789+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:26:09.826+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.383 seconds
+[2023-09-27T09:26:40.037+0000] {processor.py:157} INFO - Started process (PID=40194) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:26:40.038+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:26:40.039+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:26:40.039+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:26:40.305+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:26:40.476+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:26:40.476+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:26:40.484+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:26:40.483+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:26:40.523+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.488 seconds
+[2023-09-27T09:27:10.606+0000] {processor.py:157} INFO - Started process (PID=40440) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:10.607+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:27:10.608+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:10.607+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:10.954+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:10.966+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:10.966+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:27:10.974+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:10.973+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:27:11.010+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.406 seconds
+[2023-09-27T09:27:41.145+0000] {processor.py:157} INFO - Started process (PID=40711) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:41.145+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:27:41.146+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:41.146+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:41.480+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:41.493+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:41.493+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:27:41.500+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:41.500+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:27:41.541+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.397 seconds
+[2023-09-27T09:27:49.957+0000] {processor.py:157} INFO - Started process (PID=40773) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:49.958+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:27:49.959+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:49.958+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:50.473+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:27:50.490+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:50.490+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:27:50.502+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:27:50.502+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:27:50.552+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.597 seconds
+[2023-09-27T09:28:22.047+0000] {processor.py:157} INFO - Started process (PID=41141) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:28:22.048+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:28:22.048+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:28:22.048+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:28:22.418+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:28:22.431+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:28:22.431+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:28:22.438+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:28:22.438+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:28:22.476+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.430 seconds
+[2023-09-27T09:28:52.778+0000] {processor.py:157} INFO - Started process (PID=41590) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:28:52.779+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:28:52.779+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:28:52.779+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:28:53.207+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:28:53.224+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:28:53.223+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:28:53.234+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:28:53.234+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:28:53.384+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.608 seconds
+[2023-09-27T09:29:23.738+0000] {processor.py:157} INFO - Started process (PID=41869) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:29:23.739+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:29:23.739+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:29:23.739+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:29:24.066+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:29:24.080+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:29:24.080+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:29:24.089+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:29:24.088+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:29:24.131+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.394 seconds
+[2023-09-27T09:29:54.694+0000] {processor.py:157} INFO - Started process (PID=42065) to work on /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:29:54.695+0000] {processor.py:829} INFO - Processing file /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py for tasks to queue
+[2023-09-27T09:29:54.696+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:29:54.695+0000] {dagbag.py:539} INFO - Filling up the DagBag from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:29:55.017+0000] {processor.py:839} INFO - DAG(s) dict_keys(['Challenge_ETL_dag']) retrieved from /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py
+[2023-09-27T09:29:55.029+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:29:55.028+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T09:29:55.036+0000] {logging_mixin.py:151} INFO - [2023-09-27T09:29:55.036+0000] {dag.py:3696} INFO - Setting next_dagrun for Challenge_ETL_dag to None, run_after=None
+[2023-09-27T09:29:55.073+0000] {processor.py:179} INFO - Processing /workspaces/hands-on-introduction-data-engineering-4395021/airflow/dags/challenge_etl_task.py took 0.380 seconds

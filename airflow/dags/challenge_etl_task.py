@@ -22,7 +22,7 @@ with DAG(
         '''Read the extracted data and transform/wrangle the data'''
         df = pd.read_csv("/workspaces/hands-on-introduction-data-engineering-4395021/lab/challenge/airflow-data-extract.csv")
         today = date.today()
-        agg_df = df.groupby('Sector',sort=False).agg({'Name': 'count'})
+        agg_df = df.groupby('Sector',sort=False).agg({'Sector': 'count'}).rename(columns={'Sector':'Count'})
         agg_df.loc[:,"Date"] = today.strftime('%Y-%m-%d')
         agg_df.to_csv("/workspaces/hands-on-introduction-data-engineering-4395021/lab/challenge/airflow-data-transform.csv")
 
