@@ -1,0 +1,32 @@
+[2023-09-27T07:03:10.740+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: ETL_dag.extract manual__2023-09-27T07:03:07.758214+00:00 [queued]>
+[2023-09-27T07:03:10.745+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: ETL_dag.extract manual__2023-09-27T07:03:07.758214+00:00 [queued]>
+[2023-09-27T07:03:10.745+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2023-09-27T07:03:10.784+0000] {taskinstance.py:1380} INFO - Executing <Task(BashOperator): extract> on 2023-09-27 07:03:07.758214+00:00
+[2023-09-27T07:03:10.791+0000] {standard_task_runner.py:57} INFO - Started process 73681 to run task
+[2023-09-27T07:03:10.796+0000] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'ETL_dag', 'extract', 'manual__2023-09-27T07:03:07.758214+00:00', '--job-id', '108', '--raw', '--subdir', 'DAGS_FOLDER/basic_etl_task.py', '--cfg-path', '/tmp/tmprgycywov']
+[2023-09-27T07:03:10.797+0000] {standard_task_runner.py:85} INFO - Job 108: Subtask extract
+[2023-09-27T07:03:10.909+0000] {task_command.py:415} INFO - Running <TaskInstance: ETL_dag.extract manual__2023-09-27T07:03:07.758214+00:00 [running]> on host codespaces-4967f6
+[2023-09-27T07:03:11.004+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='ETL_dag' AIRFLOW_CTX_TASK_ID='extract' AIRFLOW_CTX_EXECUTION_DATE='2023-09-27T07:03:07.758214+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-09-27T07:03:07.758214+00:00'
+[2023-09-27T07:03:11.005+0000] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-09-27T07:03:11.006+0000] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'wget https://datahub.io/core/top-level-domain-names/r/top-level-domain-names.csv.csv -O /workspaces/hands-on-introduction-data-engineering-4395021/lab/end-to-end/airflow-data-extract.csv']
+[2023-09-27T07:03:11.011+0000] {subprocess.py:86} INFO - Output:
+[2023-09-27T07:03:11.013+0000] {subprocess.py:93} INFO - --2023-09-27 07:03:11--  https://datahub.io/core/top-level-domain-names/r/top-level-domain-names.csv.csv
+[2023-09-27T07:03:11.015+0000] {subprocess.py:93} INFO - Resolving datahub.io (datahub.io)... 104.21.40.221, 172.67.157.38, 2606:4700:3033::6815:28dd, ...
+[2023-09-27T07:03:11.019+0000] {subprocess.py:93} INFO - Connecting to datahub.io (datahub.io)|104.21.40.221|:443... connected.
+[2023-09-27T07:03:12.770+0000] {subprocess.py:93} INFO - HTTP request sent, awaiting response... 302 Found
+[2023-09-27T07:03:12.770+0000] {subprocess.py:93} INFO - Location: https://pkgstore.datahub.io/core/top-level-domain-names/top-level-domain-names.csv_csv/data/667f4464088f3ca10522e0e2e39c8ae4/top-level-domain-names.csv_csv.csv [following]
+[2023-09-27T07:03:12.770+0000] {subprocess.py:93} INFO - --2023-09-27 07:03:12--  https://pkgstore.datahub.io/core/top-level-domain-names/top-level-domain-names.csv_csv/data/667f4464088f3ca10522e0e2e39c8ae4/top-level-domain-names.csv_csv.csv
+[2023-09-27T07:03:12.771+0000] {subprocess.py:93} INFO - Resolving pkgstore.datahub.io (pkgstore.datahub.io)... 172.67.157.38, 104.21.40.221, 2606:4700:3030::ac43:9d26, ...
+[2023-09-27T07:03:12.775+0000] {subprocess.py:93} INFO - Connecting to pkgstore.datahub.io (pkgstore.datahub.io)|172.67.157.38|:443... connected.
+[2023-09-27T07:03:13.256+0000] {subprocess.py:93} INFO - HTTP request sent, awaiting response... 200 OK
+[2023-09-27T07:03:13.256+0000] {subprocess.py:93} INFO - Length: unspecified [text/plain]
+[2023-09-27T07:03:13.256+0000] {subprocess.py:93} INFO - Saving to: ‘/workspaces/hands-on-introduction-data-engineering-4395021/lab/end-to-end/airflow-data-extract.csv’
+[2023-09-27T07:03:13.256+0000] {subprocess.py:93} INFO - 
+[2023-09-27T07:03:13.257+0000] {subprocess.py:93} INFO -      0K .......... .......... .......... .......... ..         58.1M=0.001s
+[2023-09-27T07:03:13.257+0000] {subprocess.py:93} INFO - 
+[2023-09-27T07:03:13.257+0000] {subprocess.py:93} INFO - 2023-09-27 07:03:13 (58.1 MB/s) - ‘/workspaces/hands-on-introduction-data-engineering-4395021/lab/end-to-end/airflow-data-extract.csv’ saved [43709]
+[2023-09-27T07:03:13.257+0000] {subprocess.py:93} INFO - 
+[2023-09-27T07:03:13.258+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-09-27T07:03:13.311+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=ETL_dag, task_id=extract, execution_date=20230927T070307, start_date=20230927T070310, end_date=20230927T070313
+[2023-09-27T07:03:13.371+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-09-27T07:03:13.384+0000] {taskinstance.py:2776} INFO - 1 downstream tasks scheduled from follow-on schedule check
